@@ -15,3 +15,11 @@ public class SubractionTest
         Assert.Equal(2,differenceOf2Nos);
     }
 }
+
+internal class Calculator
+{
+    internal int differenceOf4and2()
+    {
+        throw new NotImplementedException();
+    }
+}

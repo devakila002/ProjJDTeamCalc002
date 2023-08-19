@@ -2,5 +2,5 @@
 
 public class Calculator
 {
-      public void subtract(int firstNumber, int secondNumber){}
+      public void SubCalc(int firstNumber, int secondNumber){}
 }
